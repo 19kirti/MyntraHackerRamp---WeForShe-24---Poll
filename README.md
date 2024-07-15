@@ -5,7 +5,7 @@
 
 ## About the Poll 
 
-This is a web-based fashion poll for the Myntra Platform built using HTML and CSS. It provides an immersive and user-friendly experience for players to cast their votes.
+This is a web-based fashion poll for the Myntra Platform built using HTML, CSS, and JavaScript. It provides an immersive and user-friendly experience for players to cast their votes.
 
 ## Features of the Poll 
 
